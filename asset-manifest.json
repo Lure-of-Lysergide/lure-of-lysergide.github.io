@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.js": "/static/js/main.b18457d7.chunk.js",
-    "main.js.map": "/static/js/main.b18457d7.chunk.js.map",
+    "main.js": "/static/js/main.c32872ae.chunk.js",
+    "main.js.map": "/static/js/main.c32872ae.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.dc04e0d6.js",
     "runtime-main.js.map": "/static/js/runtime-main.dc04e0d6.js.map",
     "static/js/2.29648984.chunk.js": "/static/js/2.29648984.chunk.js",
     "static/js/2.29648984.chunk.js.map": "/static/js/2.29648984.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.18533516d4316c39f27ab5f8de392d3f.js": "/precache-manifest.18533516d4316c39f27ab5f8de392d3f.js",
+    "precache-manifest.8f4fff7ecd7f3cfbea0fdb769924ef2f.js": "/precache-manifest.8f4fff7ecd7f3cfbea0fdb769924ef2f.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.29648984.chunk.js.LICENSE.txt": "/static/js/2.29648984.chunk.js.LICENSE.txt",
     "static/media/blog-under-construction.md": "/static/media/blog-under-construction.fcf5d02f.md",
     "static/media/contacts.md": "/static/media/contacts.97cc2b86.md",
-    "static/media/education.md": "/static/media/education.d59bbbef.md",
+    "static/media/education.md": "/static/media/education.87608b66.md",
     "static/media/experience.md": "/static/media/experience.fba55600.md",
     "static/media/projects.md": "/static/media/projects.4fbb420d.md"
   },
   "entrypoints": [
     "static/js/runtime-main.dc04e0d6.js",
     "static/js/2.29648984.chunk.js",
-    "static/js/main.b18457d7.chunk.js"
+    "static/js/main.c32872ae.chunk.js"
   ]
 }
